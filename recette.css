@@ -162,7 +162,10 @@ table.preparation td.preparation_etape {
 table.preparation tr {
     height: 40px;
 }
-
+div.home {
+    width: 100%;
+    text-align: center;
+}
 
 
 
